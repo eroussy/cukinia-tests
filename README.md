@@ -1,5 +1,7 @@
 # cukinia-tests
 
+o
+sr
 itest
 
 This repository is a part of the [SEAPATH](https://www.lfenergy.org/projects/seapath/) project.
