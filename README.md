@@ -1,5 +1,7 @@
 # cukinia-tests
 
+itest
+
 This repository is a part of the [SEAPATH](https://www.lfenergy.org/projects/seapath/) project.
 It contains Cukinia's tests, which can be run on SEAPATH machines.
 These tests can be run and deployed using the SEAPATH ansible playbook:
